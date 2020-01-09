@@ -1,0 +1,12 @@
+Symbol:a,b,c,0,1,2,3
+Alphabet: It is denoted by sigma.collectin of symbol {a,b}
+String: sequence of symbol. e.g. a,b,0,1,aa,bb,abc
+Language:A set of strings
+       e.g. sigma={0,1}
+       L1=set of all strings of length 2
+         ={00,01,10,11}
+       l2=set of all string of length 3
+         ={000,001,010,011,100,101,110,111}
+       l3=set of all strings that begins with 0 
+         ={0,00,01,000,001,010,011,000,......} =infinte language=infinite set.
+Powers of sigma

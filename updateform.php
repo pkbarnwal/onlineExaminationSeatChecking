@@ -6,7 +6,11 @@ session_start();
      {
       header('location:adminlogin.php');
      }
-     ?>
+    // else
+     // {
+      //header('location:admin.html');
+     //}
+?>
 <?php
   include('header.php');
   include('Adminoperation.php');
